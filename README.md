@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://c1mplete.github.io](https://c1mplete.github.io)
 
-- 📫 How to reach me **cmplete1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
