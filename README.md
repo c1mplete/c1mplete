@@ -51,8 +51,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c1mplete&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="c1mplete's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c1mplete&layout=compact&theme=radical&hide_border=true" alt="c1mplete's Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=c1mplete&show_icons=true&count_private=true&theme=tokyonight" alt="c1mplete's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c1mplete&layout=compact&count_private=true&theme=tokyonight" alt="c1mplete's Top Languages" height="180" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c1mplete&theme=radical&hide_border=true" alt="c1mplete's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c1mplete&theme=tokyonight" alt="c1mplete's Streak Stats" />
 </div>
