@@ -50,7 +50,12 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c1mplete&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="c1mplete's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c1mplete&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="c1mplete's Top Languages" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c1mplete&show_icons=true&theme=tokyonight" alt="c1mplete's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c1mplete&layout=compact&theme=tokyonight" alt="c1mplete's Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c1mplete&theme=tokyonight" alt="c1mplete's Streak Stats" />
+</p>
